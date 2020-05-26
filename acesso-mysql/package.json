@@ -1,0 +1,15 @@
+{
+  "name": "acesso-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-conn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  }
+}
